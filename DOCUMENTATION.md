@@ -1,6 +1,6 @@
 # AdonisKit Documentation
 
-This document is the complete guide for [AdonisKit](https://github.com/Captain-iiro/adoniskit) — a production-ready AdonisJS 7 starter kit with Inertia + React, shadcn-style UI on Base UI, and a modern dashboard shell.
+This document is the complete guide for [AdonisKit](https://github.com/Captain-iiro/AdonisKit) — a production-ready AdonisJS 7 starter kit with Inertia + React, shadcn-style UI on Base UI, and a modern dashboard shell.
 
 ## Table of contents
 
